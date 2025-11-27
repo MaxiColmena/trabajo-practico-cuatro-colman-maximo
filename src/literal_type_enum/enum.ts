@@ -15,3 +15,4 @@ function logMessage(level:LogLevel, message: string){
 }
 
 logMessage(LogLevel.Info, "<- Este número indica el indice del objeto que viene de Enum, por ende el siguiente será 1")
+

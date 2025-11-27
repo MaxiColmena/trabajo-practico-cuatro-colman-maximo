@@ -3,3 +3,5 @@ type OrderStatus =  "pending" | "shipped" | "delivered"
 
 //asignación de valor ya que la constante oderStatus con minuscula toma el type OrderStatus con mayuscula
 const orderStatus: OrderStatus = "pending"
+
+console.log(orderStatus)
